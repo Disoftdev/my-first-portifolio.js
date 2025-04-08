@@ -1,4 +1,3 @@
-
 function updateProfileInfo(profileData) {
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo
@@ -15,7 +14,7 @@ function updateProfileInfo(profileData) {
 
     const email = document.getElementById('profile.email')
     email.innerText = profileData.email
-    email.href = `diegoleao1${profileData.email}`
+    email.href = `mailto:${profileData.email}` // Correção aqui
 }
 
 function updateSoftSkills(profileData) {
@@ -51,7 +50,6 @@ function updateProfessionalExperience(profileData) {
         return `
             <li>
                 <h3 class="title">${experience.name}</h3>
-                <p class="period">${experience.period}</p>
                 <p>${experience.description}</p>
             </li>
         `

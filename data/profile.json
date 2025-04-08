@@ -1,34 +1,35 @@
 {
   "name": "Diego F. Leão",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/169986428?v=4",
   "job": "Junior Developer",
   "location": "Lisboa, PT",
-  "email": "diegoleao1@hotmail.com",
+  "email": "diego.personal007@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "HTML5",
-        "logo": "https://github.com/Disoftdev/js-developer-portfolio/blob/main/data/imgs/html.png"
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/Disoftdev/js-developer-portfolio/main/data/imgs/html.png"
+        
       },
      
       {
         "name": "CSS3",
-        "logo": "https://github.com/Disoftdev/js-developer-portfolio/blob/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/Disoftdev/js-developer-portfolio/main/data/imgs/css.png"
       },
     
       {
         "name": "Java-Script",
-        "logo": "https://github.com/Disoftdev/js-developer-portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/Disoftdev/js-developer-portfolio/main/data/imgs/js.png"
       },
 
       {
         "name": "React",
-        "logo": "https://github.com/Disoftdev/js-developer-portfolio/blob/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/Disoftdev/js-developer-portfolio/main/data/imgs/react.png"
       },
 
       {
         "name": "Github",
-        "logo": "https://github.com/Disoftdev/js-developer-portfolio/blob/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/Disoftdev/js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
@@ -60,7 +61,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Junior Developer",
+      "name": "Front-End Developer",
       "description": "Em busca da primeira oportunidade para evoluir e adquirir experiencias."
     }
   
