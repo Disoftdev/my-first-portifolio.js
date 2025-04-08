@@ -1,7 +1,7 @@
 {
   "name": "Diego F. Leão",
   "photo": "https://avatars.githubusercontent.com/u/169986428?v=4",
-  "job": "Junior Developer",
+  "job": "Front-End Developer",
   "location": "Lisboa, PT",
   "email": "diego.personal007@gmail.com",
   "skills": {
@@ -41,7 +41,7 @@
     ]
   },
   "languages": [
-    "Português BR",
+    "Português PT-BR",
     "Inglês (intermediário)",
     "Espanhol (intermediário)"
     
@@ -55,7 +55,12 @@
     },
     {
       "name": "Criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/Disoftdev/my-first-portifolio.js",
+      "github": true
+    },
+    {
+      "name": "Criação de uma Landpage para um Projeto de um Coffe-Shop",
+      "url": "https://github.com/Disoftdev/Projeto-Coffee-Shop",
       "github": true
     }
   ],
